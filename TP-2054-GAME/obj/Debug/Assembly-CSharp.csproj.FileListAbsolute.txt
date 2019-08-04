@@ -1,0 +1,2 @@
+C:\Users\Alexis\Desktop\LEIVA\TP 2054\TP-2054\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Alexis\Desktop\LEIVA\TP 2054\TP-2054\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
