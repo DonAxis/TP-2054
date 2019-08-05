@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 8d3582f7c81283c42bb443b77f495203
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Pasillo.001_Pasillo.001
+    100004: Pasillo.002_Pasillo.002
+    100006: Pasillo.003_Pasillo.003
+    100008: Pasillo.004_Pasillo.004
+    100010: Pasillo.005_Pasillo.005
+    100012: Pasillo.006_Pasillo.006
+    100014: Pasillo.007_Pasillo.007
+    100016: Pasillo_Pasillo
+    400000: //RootNode
+    400002: Pasillo.001_Pasillo.001
+    400004: Pasillo.002_Pasillo.002
+    400006: Pasillo.003_Pasillo.003
+    400008: Pasillo.004_Pasillo.004
+    400010: Pasillo.005_Pasillo.005
+    400012: Pasillo.006_Pasillo.006
+    400014: Pasillo.007_Pasillo.007
+    400016: Pasillo_Pasillo
+    2100000: Pasillo.001_Pasillo.001Mat
+    2100002: Pasillo.002_Pasillo.002Mat
+    2100004: Pasillo.003_Pasillo.003Mat
+    2100006: Pasillo.004_Pasillo.004Mat
+    2100008: Pasillo.005_Pasillo.005Mat
+    2100010: Pasillo.006_Pasillo.006Mat
+    2100012: Pasillo.007_Pasillo.007Mat
+    2100014: Pasillo_PasilloMat
+    2300000: Pasillo.001_Pasillo.001
+    2300002: Pasillo.002_Pasillo.002
+    2300004: Pasillo.003_Pasillo.003
+    2300006: Pasillo.004_Pasillo.004
+    2300008: Pasillo.005_Pasillo.005
+    2300010: Pasillo.006_Pasillo.006
+    2300012: Pasillo.007_Pasillo.007
+    2300014: Pasillo_Pasillo
+    3300000: Pasillo.001_Pasillo.001
+    3300002: Pasillo.002_Pasillo.002
+    3300004: Pasillo.003_Pasillo.003
+    3300006: Pasillo.004_Pasillo.004
+    3300008: Pasillo.005_Pasillo.005
+    3300010: Pasillo.006_Pasillo.006
+    3300012: Pasillo.007_Pasillo.007
+    3300014: Pasillo_Pasillo
+    4300000: Pasillo.001_Pasillo.001
+    4300002: Pasillo.002_Pasillo.002
+    4300004: Pasillo.003_Pasillo.003
+    4300006: Pasillo.004_Pasillo.004
+    4300008: Pasillo.005_Pasillo.005
+    4300010: Pasillo.006_Pasillo.006
+    4300012: Pasillo.007_Pasillo.007
+    4300014: Pasillo_Pasillo
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pasillo.001_Pasillo.001Mat
+    second: {fileID: 2100000, guid: ac97917bc85b8534eb9e42b4c05552c7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pasillo.002_Pasillo.002Mat
+    second: {fileID: 2100000, guid: 5d842ffe95ee5a6429ded3bb5dc7b19e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pasillo.003_Pasillo.003Mat
+    second: {fileID: 2100000, guid: b953bdc174cd2e24a983afab1d84933c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pasillo.004_Pasillo.004Mat
+    second: {fileID: 2100000, guid: 75f6f13e3dbec5f4f8a502aa9e0c69d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pasillo.005_Pasillo.005Mat
+    second: {fileID: 2100000, guid: 5da684aaf82c00a4995b792ad10fdc89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pasillo.006_Pasillo.006Mat
+    second: {fileID: 2100000, guid: a4edff5844615f54cbd8da7ce697c1fc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pasillo.007_Pasillo.007Mat
+    second: {fileID: 2100000, guid: 3da05cf0fdd4df84db9928ac5548f270, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Pasillo_PasilloMat
+    second: {fileID: 2100000, guid: 7fc7698fea795ea408f72c5e7c0b1c8d, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
