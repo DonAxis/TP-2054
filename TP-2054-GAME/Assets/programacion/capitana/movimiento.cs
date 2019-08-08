@@ -30,8 +30,8 @@ public class movimiento : MonoBehaviour {
 
 		if(Input.GetKey (KeyCode.LeftShift ))
 			velocidad=turbo;
-		else
-			velocidad=PV;
+		//else
+		//	velocidad=PV;
 			
 
 			if (Input.GetKey (KeyCode.D)) 													//caminar adelante
@@ -64,8 +64,8 @@ public class movimiento : MonoBehaviour {
 		if (other.name == "fuego") {
 			Debug.Log ("te quemas");
 
-//			capi.AddForce (transform.up * empuje / 5, ForceMode.Impulse);
-//			capi.AddForce (-transform.forward * empuje, ForceMode.Impulse);
+			capi.AddForce (transform.up * empuje / 5, ForceMode.Impulse);
+			capi.AddForce (-transform.forward * empuje, ForceMode.Impulse);
 			StartCoroutine (desactivacion ());
 
 			}
