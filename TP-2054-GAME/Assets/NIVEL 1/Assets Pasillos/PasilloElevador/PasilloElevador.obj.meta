@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 42780f53f34f36c45ba23730866befc6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: PasilloElevador.001_PasilloElevador.001
+    100004: PasilloElevador.002_PasilloElevador.002
+    100006: PasilloElevador.003_PasilloElevador.003
+    100008: PasilloElevador.004_PasilloElevador.004
+    100010: PasilloElevador.005_PasilloElevador.005
+    100012: PasilloElevador.006_PasilloElevador.006
+    100014: PasilloElevador.007_PasilloElevador.007
+    100016: PasilloElevador_PasilloElevador
+    400000: //RootNode
+    400002: PasilloElevador.001_PasilloElevador.001
+    400004: PasilloElevador.002_PasilloElevador.002
+    400006: PasilloElevador.003_PasilloElevador.003
+    400008: PasilloElevador.004_PasilloElevador.004
+    400010: PasilloElevador.005_PasilloElevador.005
+    400012: PasilloElevador.006_PasilloElevador.006
+    400014: PasilloElevador.007_PasilloElevador.007
+    400016: PasilloElevador_PasilloElevador
+    2100000: PasilloElevador.001_PasilloElevador.001Mat
+    2100002: PasilloElevador.002_PasilloElevador.002Mat
+    2100004: PasilloElevador.003_PasilloElevador.003Mat
+    2100006: PasilloElevador.004_PasilloElevador.004Mat
+    2100008: PasilloElevador.005_PasilloElevador.005Mat
+    2100010: PasilloElevador.006_PasilloElevador.006Mat
+    2100012: PasilloElevador.007_PasilloElevador.007Mat
+    2100014: PasilloElevador_PasilloElevadorMat
+    2300000: PasilloElevador.001_PasilloElevador.001
+    2300002: PasilloElevador.002_PasilloElevador.002
+    2300004: PasilloElevador.003_PasilloElevador.003
+    2300006: PasilloElevador.004_PasilloElevador.004
+    2300008: PasilloElevador.005_PasilloElevador.005
+    2300010: PasilloElevador.006_PasilloElevador.006
+    2300012: PasilloElevador.007_PasilloElevador.007
+    2300014: PasilloElevador_PasilloElevador
+    3300000: PasilloElevador.001_PasilloElevador.001
+    3300002: PasilloElevador.002_PasilloElevador.002
+    3300004: PasilloElevador.003_PasilloElevador.003
+    3300006: PasilloElevador.004_PasilloElevador.004
+    3300008: PasilloElevador.005_PasilloElevador.005
+    3300010: PasilloElevador.006_PasilloElevador.006
+    3300012: PasilloElevador.007_PasilloElevador.007
+    3300014: PasilloElevador_PasilloElevador
+    4300000: PasilloElevador.001_PasilloElevador.001
+    4300002: PasilloElevador.002_PasilloElevador.002
+    4300004: PasilloElevador.003_PasilloElevador.003
+    4300006: PasilloElevador.004_PasilloElevador.004
+    4300008: PasilloElevador.005_PasilloElevador.005
+    4300010: PasilloElevador.006_PasilloElevador.006
+    4300012: PasilloElevador.007_PasilloElevador.007
+    4300014: PasilloElevador_PasilloElevador
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PasilloElevador.001_PasilloElevador.001Mat
+    second: {fileID: 2100000, guid: af4b60c9f4bd1e84487d877fdd7d6b98, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PasilloElevador.002_PasilloElevador.002Mat
+    second: {fileID: 2100000, guid: 56fc9122fcd35eb4c8469e810dfa7cdf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PasilloElevador.003_PasilloElevador.003Mat
+    second: {fileID: 2100000, guid: a6e5cb18e9d93dd42ba4e01bda619181, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PasilloElevador.004_PasilloElevador.004Mat
+    second: {fileID: 2100000, guid: d9049850ba4370847b23bad4efbe1a95, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PasilloElevador.005_PasilloElevador.005Mat
+    second: {fileID: 2100000, guid: b442970c52d1f204d96fc29aae439793, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PasilloElevador.006_PasilloElevador.006Mat
+    second: {fileID: 2100000, guid: d72fc08bd692f5b4da8fd8cb8a0f76a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PasilloElevador.007_PasilloElevador.007Mat
+    second: {fileID: 2100000, guid: 63b2d171ea8556446ab74d0e9e1c4093, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: PasilloElevador_PasilloElevadorMat
+    second: {fileID: 2100000, guid: 9cd855112af234645a74907ca9805cd6, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 1
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

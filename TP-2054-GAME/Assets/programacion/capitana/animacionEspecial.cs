@@ -7,6 +7,7 @@ public class animacionEspecial : MonoBehaviour {
 		public movimiento golpes;
 		public Material ropa;
 		public Color ColorGolpe;
+
 	void Start () {
 		andar = GetComponent<Animator>();
 		ColorGolpe = ropa.color;
